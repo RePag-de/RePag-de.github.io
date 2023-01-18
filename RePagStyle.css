@@ -1,4 +1,4 @@
-﻿body {
+body {
   background-color: #4f4f4f;
   margin-top: 1em;
   margin-left: 1em;
@@ -180,8 +180,15 @@ footer {
     transition: all .25s ease-in;
   }
 
-#Update {
+#Update_Kurz {
+  float: right;
+  margin-top: 8em;
+  margin-right: 0.5em;
+}
+
+#Update_Lang {
   float: right;
   margin-top: 1em;
   margin-right: 0.5em;
 }
+
