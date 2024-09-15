@@ -32,7 +32,7 @@ Banner {
   float: left;
   padding-top: 0.3em;
   text-shadow: 4px 4px 4px white, 4px -4px 4px white, -4px 4px 4px white, -4px -4px 4px white;
-  width: 20em; /*16em;*/
+  width: 20em; /*15em;*/
   text-align: center;
 }
 
@@ -61,11 +61,11 @@ nav {
   -webkit-box-shadow: 0px 5px 10px white;
 }
 
-nav ul {
-  list-style: none;
-  float: right;
-  margin-right: 0.5em;
-}
+  nav ul {
+    list-style: none;
+    float: right;
+    margin-right: 0.5em;
+  }
 
   nav a {
     display: block;
@@ -86,11 +86,11 @@ nav ul {
     transition: all .25s ease-in;
   }
 
-  nav a:focus,
-  nav a:hover {
-    background-color: gold;
-    color: darkblue;
-  }
+    nav a:focus,
+    nav a:hover {
+      background-color: gold;
+      color: darkblue;
+    }
 
 section {
   background-color: white;
@@ -118,14 +118,14 @@ footer {
   width: 103em;
 }
 
-  #Repo ul {
-    list-style: none;
-    line-height: 1.8em;
-    font-size: 1.2em;
-    float: left;
-    margin-left: 11em;
-    width: 10em;
-  }
+#Repo ul {
+  list-style: none;
+  line-height: 1.8em;
+  font-size: 1.2em;
+  float: left;
+  margin-left: 11em;
+  width: 10em;
+}
 
 #Feed ul {
   list-style: none;
@@ -191,4 +191,3 @@ footer {
   margin-top: 1em;
   margin-right: 0.5em;
 }
-
