@@ -102,9 +102,9 @@ section {
   border: 0.25em solid #444444;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
-  box-shadow: 10px 10px 30px #a0a0a0 inset, -10px -10px 30px #a0a0a0 inset;
+/*  box-shadow: 10px 10px 30px #a0a0a0 inset, -10px -10px 30px #a0a0a0 inset;
   -moz-box-shadow: 10px 10px 30px #a0a0a0 inset, -10px -10px 30px #a0a0a0 inset;
-  -webkit-box-shadow: 10px 10px 30px #a0a0a0 inset, -10px -10px 30px #a0a0a0 inset;
+  -webkit-box-shadow: 10px 10px 30px #a0a0a0 inset, -10px -10px 30px #a0a0a0 inset;*/
 }
 
 Text_n {
